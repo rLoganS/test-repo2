@@ -1,3 +1,3 @@
 This is a new file.
 
-Changey change on change
+This is a change.
